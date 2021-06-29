@@ -1,19 +1,19 @@
 ---
-title: Git Rev News Edition 71 (January 27th, 2021)
+title: Git Rev News Edition 77 (July 28th, 2021)
 layout: default
-date: 2021-01-27 12:06:51 +0100
+date: 2021-07-28 12:06:51 +0100
 author: chriscool
 categories: [news]
 navbar: false
 ---
 
-## Git Rev News: Edition 71 (January 27th, 2021)
+## Git Rev News: Edition 77 (July 28th, 2021)
 
-Welcome to the 71st edition of [Git Rev News](https://git.github.io/rev_news/rev_news/),
+Welcome to the 77th edition of [Git Rev News](https://git.github.io/rev_news/rev_news/),
 a digest of all things Git. For our goals, the archives, the way we work, and how to contribute or to
 subscribe, see [the Git Rev News page](https://git.github.io/rev_news/rev_news/) on [git.github.io](http://git.github.io).
 
-This edition covers what happened during the month of December 2020.
+This edition covers what happened during the month of June 2021.
 
 ## Discussions
 
@@ -43,8 +43,6 @@ __Various__
 
 __Light reading__
 
-* [Git Metadata Cloning](https://www.alchemists.io/articles/git_metadata_cloning)- Learn about the
-  performance impacts of cloning repository metadata.
 
 __Git tools and sites__
 
